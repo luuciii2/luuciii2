@@ -17,6 +17,8 @@
 
 I am a **Computer Science and Business Administration student** at **Universidad de Alcalá**, interested in creating useful, well-structured and scalable software solutions.
 
+I am looking forward to working in a team environment, contributing to real projects and growing professionally. I define myself as a **responsible, committed and organised person**, with **leadership skills**, initiative and a strong work ethic.
+
 My academic and personal projects combine **software development**, **databases**, **IoT systems**, **parallel programming** and **business-oriented problem solving**.
 
 ---
