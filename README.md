@@ -1,73 +1,116 @@
-# Hi, I'm Lucía 👋
+<div align="center">
 
-**Computer Science & Business student** at **Universidad de Alcalá**.  
-I enjoy building practical software solutions and learning by working on real technical projects.
+# Hi, I'm Lucía Cantero 👋
 
-Currently focused on **software development**, **databases**, **IoT systems**, **backend technologies** and **GPU programming**.
+### Computer Science & Business student  
+### Building practical software with a technical and business mindset
+
+[![GitHub](https://img.shields.io/badge/GitHub-luuciii2-181717?style=for-the-badge&logo=github)](https://github.com/luuciii2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía%20Cantero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luc%C3%ADa-cantero-anchuelo-b49604305/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucia.cantero.anchuelo@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About me
+
+I am a **Computer Science and Business Administration student** at **Universidad de Alcalá**, interested in creating useful, well-structured and scalable software solutions.
+
+My academic and personal projects combine **software development**, **databases**, **IoT systems**, **parallel programming** and **business-oriented problem solving**.
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### ✈️ Airline CUDA
-GPU programming project focused on accelerating airline-related computations using **CUDA**.
 
+GPU programming project focused on accelerating airline-related computations using **CUDA** and comparing CPU vs GPU performance.
+
+**Tech stack:**  
 `CUDA` · `C++` · `GPU Computing` · `Parallel Programming`
 
----
+</td>
+<td width="50%">
 
-### 🚦 Urban Traffic Light IoT System
-Urban traffic light and sensor monitoring system using MQTT messages, JSON data, backend services and database persistence.
+### 🚦 Urban IoT System
 
-`Java` · `MQTT` · `MariaDB` · `Tomcat` · `Docker` · `REST API`
+Simulation of urban traffic lights and sensors using MQTT messaging, JSON data, backend services and database persistence.
 
----
+**Tech stack:**  
+`C++` · `MQTT` · `MariaDB` · `Tomcat` · `Docker` · `JSON`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🧵 Java Concurrency Simulator
-Multithreaded Java simulator using synchronization mechanisms and controlled access rules.
 
+Multithreaded Java simulator using synchronization mechanisms, controlled queues and distributed interaction through RMI.
+
+**Tech stack:**  
 `Java` · `Threads` · `synchronized` · `wait/notify` · `RMI`
 
----
+</td>
+<td width="50%">
 
 ### 🍔 JavaEats
-Food ordering simulator with clients, restaurants, orders, payments and a Swing-based interface.
 
-`Java` · `OOP` · `Swing`
+Food ordering simulator with clients, restaurants, orders, payments and a desktop interface built with Swing.
+
+**Tech stack:**  
+`Java` · `OOP` · `Swing` · `Data Structures`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## Currently interested in
 
 ```txt
-Java · C/C++ · Python · SQL · CUDA · MariaDB · Git/GitHub
-Docker · Tomcat · REST APIs · MQTT · RMI · Linux basics
+Software Development · Backend Systems · Databases · IoT · CUDA
+Parallel Programming · Data Structures · Business & Financial Analysis
 ```
 
 ---
 
-## 📚 Areas of Interest
-
-```txt
-Software Development · Backend · Databases · IoT · Parallel Programming
-Data Structures · Business & Financial Analysis
-```
-
----
-
-## 🎓 Education
+## Education
 
 **Double Degree in Computer Science and Business Administration**  
 Universidad de Alcalá · Expected graduation: **2027**
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- GitHub: [@luuciii2](https://github.com/luuciii2)
-- LinkedIn: [Lucía Cantero Anchuelo](https://www.linkedin.com/in/luc%C3%ADa-cantero-anchuelo-b49604305/)
-- Location: Madrid, Spain
+### Turning ideas into useful software.
 
----
-
-> Turning ideas into useful software.
+</div>
